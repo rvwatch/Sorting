@@ -23,5 +23,9 @@
     "eslint": "^4.9.0",
     "mocha": "^3.4.2",
     "webpack": "^3.3.0"
+  },
+  "dependencies": {
+    "@rvwatch/gen-random": "git+https://github.com/rvwatch/npmPackageTest.git",
+    "chai-sorted": "^0.1.0"
   }
 }
